@@ -48,3 +48,8 @@ grep docker /etc/group
 # If that doesn't work (like in my case), re-log the user in the system
 docker run hello-world
 
+
+
+
+
+
