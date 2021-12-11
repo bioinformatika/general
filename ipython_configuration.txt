@@ -1,0 +1,6 @@
+Embeding images:
+https://stackoverflow.com/questions/51975699/embedding-image-into-jupyter-notebook-and-exporting-to-html
+https://www.base64-image.de/
+
+Sharing notebooks:
+https://towardsdatascience.com/tools-for-sharing-jupyter-notebooks-online-28c8d4ff821c
